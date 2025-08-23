@@ -1,0 +1,7 @@
+date,description,category,amount,income,currency
+2025-08-10 00:00:00+05:30,Zomato,Food,1000.0,0.0,INR
+2025-08-18 00:00:00+05:30,car,Travel,500.0,0.0,INR
+2025-07-15 00:00:00+05:30,health,Health,10000.0,0.0,INR
+2025-08-19 00:00:00+05:30,,Entertainment,1000.0,0.0,INR
+2025-08-19 00:00:00+05:30,,Housing,5000.0,0.0,INR
+2025-08-19 00:00:00+05:30,sugar,Groceries,100.0,0.0,INR
