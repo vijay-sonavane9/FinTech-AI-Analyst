@@ -1,5 +1,3 @@
-# Personal Finance AI with Dashboard
-
 # Personal Finance AI Dashboard
 
 Upload your bank/UPI/credit card CSVs and get:
